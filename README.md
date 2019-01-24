@@ -1,6 +1,6 @@
 # ShiDen
 
-It can identify some hashes with its characteristic
+It can identify algorithm of hash by checking its characteristic
 
 Also, it can additionally can identify some encoding like __Base64__ and __Base32__
 
@@ -18,4 +18,6 @@ chmod +x shiden.py
 
 Just type **./shiden.py**
 
-Then, input a string of hash or a file that contains multiple hashes separated by new line.
+Then, input a string of hash.
+
+For __multiple checking__, just input file name that contains hashes separated by new line.
