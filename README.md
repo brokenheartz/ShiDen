@@ -2,7 +2,7 @@
 
 It can identify algorithm of hash by checking its characteristic
 
-Also, it can additionally can identify some encoding like __Base64__ and __Base32__
+Also, it additionally can identify some encoding like __Base64__ and __Base32__
 
 ## Install
 
